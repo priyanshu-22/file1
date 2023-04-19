@@ -1,5 +1,5 @@
 import streamlit as st
-st.title "Find the largest among the 3 numbers")
+st.title ("Find the largest among the 3 numbers")
 num1 = st.number_ input ("Enter number 1")
 num2 = st.number
 input ( "Enter number 2")
