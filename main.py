@@ -5,7 +5,7 @@ num2 = st.number_input("Enter number 2")
 num3 = st.number_input("Enter number 3")
 calculate = st.button("Find largest number")
 
-def largest number (a, b, c):
+def largest_number(a, b, c):
   if a > b and a > c:
     return a
   elif b > a and b > c:
